@@ -5,6 +5,8 @@
 
 ## 预览
 
+live demo： https://vue-create-form.vercel.app/#/
+
 ![xhlirf](https://raw.githubusercontent.com/jiangwenyang/graphbed/master/uPic/xhlirf.jpg)
 
 ![O0VWq7](https://raw.githubusercontent.com/jiangwenyang/graphbed/master/uPic/O0VWq7.jpg)
